@@ -1,0 +1,1 @@
+Day05 task includes JSON iterate using for, for in, for of loops and resume data in JSON format. 
